@@ -59,16 +59,13 @@ sample images:-
 
 1.-
 Image before scaling
- ![venom](D:/python/Project/image resizer/sample/venom.png)
-
+![witcher](https://github.com/user-attachments/assets/87a8cf5b-8762-41ff-8cb1-59c2307ac182)
 2.-
 Image before scaling
- ![witcher](D:/python/Project/image resizer/sample/witcher.jpg)
-
+![venom](https://github.com/user-attachments/assets/b69f04e1-dff9-4c75-8e59-8b181ef5f821)
 3.-
 Image after scaling factor of 5 i.e *5
- ![venom](D:/python/Project/image resizer/sample/output/venom.png)
-
+![witcher](https://github.com/user-attachments/assets/04c8e09e-7f92-40cd-90c6-a5fd0ed93b6f)
 4.-
 Image after scaling factor of 5 i.e *5
- ![witcher](D:/python/Project/image resizer/sample/output/witcher.jpg)
+![venom](https://github.com/user-attachments/assets/ebf4273a-eced-4b0a-a44b-fecd36a58cfb)
